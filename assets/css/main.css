@@ -2607,6 +2607,8 @@ input, select, textarea {
 
 				ul.items > li > :last-child {
 					margin-bottom: 0;
+					cursor: pointer;
+					text-decoration: none;
 				}
 
 				ul.items > li:last-child {
